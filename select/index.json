@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "ordinary it",
+  "base_artist": "ZAQ",
+  "createdAt": "2026-02-27T02:01:09.623123Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Ordinary It",
+      "artist": "ZAQ",
+      "has_synced": true,
+      "path": "select/01_Ordinary_It_ZAQ.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ordinary it",
+      "artist": "ZAQ",
+      "has_synced": true,
+      "path": "select/02_ordinary_it_ZAQ.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ordinary it",
+      "artist": "ZAQ",
+      "has_synced": false,
+      "path": "select/pl_01_ordinary_it_ZAQ.txt"
+    }
+  ]
+}
